@@ -1,0 +1,1 @@
+# Generate (x, y) pairs
